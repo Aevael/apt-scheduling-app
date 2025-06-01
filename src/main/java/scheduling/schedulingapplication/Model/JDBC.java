@@ -13,7 +13,7 @@ public abstract class JDBC {
     private static final String jdbcUrl = protocol + vendor + location + databaseName + "?connectionTimeZone = UTC"; // LOCAL
     private static final String driver = "com.mysql.cj.jdbc.Driver"; // Driver reference
     private static final String userName = "root"; // Username
-    private static String password = "password"; // Password Passw0rd!
+    private static String password = "password"; // Password Passw0rd! is old password
     public static Connection connection;  // Connection Interface
 
     /** This method opens a JDBC connection. */
