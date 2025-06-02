@@ -43,3 +43,4 @@ Login Attempt, User: test, Date and time: 2025-05-26T14:20:00.099839-05:00[Ameri
 Login Attempt, User: test, Date and time: 2025-05-26T15:31:37.229051-04:00[America/Toronto], Login Successful.
 Login Attempt, User: test, Date and time: 2025-05-26T15:33:04.919098-04:00[America/Toronto], Login Successful.
 Login Attempt, User: test, Date and time: 2025-05-26T14:44:58.682032-05:00[America/Chicago], Login Successful.
+Login Attempt, User: test, Date and time: 2025-06-02T11:08:22.592358-05:00[America/Chicago], Login Successful.

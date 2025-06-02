@@ -19,7 +19,7 @@ MySQL Connector driver version: mysql-connector-j-8.2.0
 To run program:
 Run program in IntelliJ 
 The program requires setting up a local client side MySQL database. This can be done by downloading MySQL and running on the database the scripts in the files "C195_db_ddl.txt" and "C195_db_dml.txt" found in the root folder.
-The application requires a SQL connection driver to connect to the database. Make sure to install one and add it to the library of the project (in project structure).
+The application requires a SQL connection driver to connect to the database. Make sure to install one and add it to the library of the project (in project structure), then add connector library to dependencies.
 The run configuration should be set up, if not then run the application from the SchedulingApplication file in the src/main/java/scheduling/schedulingapplication folder.
 Make to sure set PATH_TO_FX to javafx-sdk 17 lib (in File- Settings- Path Variables, add variable with name "PATH_TO_FX" and set value to javafx-sdk 17 lib folder).
 Make sure to add javafx-sdk 17 "lib" directory to Project Libraries (in File- Project Structure - Libraries, add the javafx-sdk 17 lib folder).
