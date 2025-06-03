@@ -18,11 +18,8 @@ JDK: Microsoft OpenJDK 17.0.15
 JavaFX: JavaFX 17.0.15[LTS]
 MySQL Connector/J: MySQL Connector J 9.3.0
 
-
-
 INSTRUCTIONS:
 DOWNLOAD LINKS FOUND AT BOTTOM
-
 
 
 LOCAL MYSQL DATABASE SETUP
@@ -46,7 +43,6 @@ The initial data for the program has now been created, and the database is ready
 Note: if the username or port number differ (these can be seen when selecting the local server instance), you will need to update the respective strings
 found in src/main/java/scheduling/schedulingapplication/Model/JDBC.java (line 11 for portnumber and line 15 for username) for the database connection to work.
 
-
 Setting up the local database on macOS:
 Download and install MySQL Community Server.
 During installation, when prompted to provide a password for the "root" username, put "password".
@@ -65,7 +61,6 @@ The initial data for the program has now been created, and the database is ready
 
 Note: if the username or port number differ (these can be seen when selecting the local server instance), you will need to update the respective strings
 found in src/main/java/scheduling/schedulingapplication/Model/JDBC.java (line 11 for portnumber and line 15 for username) for the database connection to work.
-
 
 
 APPLICATION SETUP
@@ -108,7 +103,6 @@ The "Main Class" field should now contain "scheduling.schedulingapplication.Sche
 Make sure to apply the changes.
 
 The program can now be run by clicking the green play/run button at the top of the Intellij window (next to the SchedulingApplication dropdown menu).
-
 
 
 DOWNLOAD LINKS
