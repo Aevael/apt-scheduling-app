@@ -7,8 +7,7 @@ Author: Alexandre Do
 Contact info: alexdo167@gmail.com
 
 Application Version: 1.1
-Changelog 1.0 -> 1.1: updated IDE, JDK, JavaFX and MySQL Connector/J versions. Added detailed instructions to run
-program.
+Changelog 1.0 -> 1.1: updated IDE, JDK, JavaFX and MySQL Connector/J versions. Added detailed instructions to run program.
 
 Date: 06/02/2025
 
